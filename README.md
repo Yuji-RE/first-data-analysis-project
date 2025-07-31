@@ -46,10 +46,10 @@
 ### 🗂 使用データと構造
 
 - `AppleStore.csv`：7000件以上のiOSアプリに関するデータ
-  （出典: データは iTunes Search API を利用して収集され、Kaggle 上にて Ramanathan Perumal 氏により公開されたものを使用: https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps）
+  （出典: データは iTunes Search API を利用して収集され、Kaggle 上にて Ramanathan Perumal 氏により公開されたものを使用: ( <https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps>）
   
 - `googleplaystore.csv`：10000件以上のAndroidアプリに関するデータ
-  （出典: Lavanya Gupta, "Google Play Store Apps," Feb 2019. [Online]. Available: https://www.kaggle.com/datasets/lava18/google-play-store-apps）
+  （出典: Lavanya Gupta, "Google Play Store Apps," Feb 2019. [Online]. Available: <https://www.kaggle.com/datasets/lava18/google-play-store-apps>）
 
 それぞれのファイルから、主に以下の列を使用して分析を行った：
 
